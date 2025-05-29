@@ -58,4 +58,13 @@ I built SysNetMonitor because I’m tired of watching you fumble around with you
 
 So, fire it up, monitor your network like a pro, and maybe give me a pat on the back. Or don’t—I’m already the best.
 
+## Want some Pics, Here are they: 
+![image](https://github.com/user-attachments/assets/6715539d-740e-4e45-860b-e455c56c1ca6)
+
+*After HUD mode Enabled* 
+
+![Screenshot 2025-05-28 192017](https://github.com/user-attachments/assets/40b59e2b-c622-4cc9-ad10-0369af4ebf44)
+
+
+
 *Kuchinpotta Out.*
